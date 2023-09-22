@@ -975,7 +975,7 @@ while True:
             )  # 保存
             file.close()  # 关闭
             file = open(
-                "advusrs.json",
+                "advusrs.txt",
                 "w+",
                 encoding="utf-8",
             )  # 打开文件（自动保存配置）
@@ -1685,7 +1685,7 @@ while True:
                         )  # 保存
                         file.close()  # 关闭
                         file = open(
-                            "advusrs.json",
+                            "advusrs.txt",
                             "w+",
                             encoding="utf-8",
                         )  # 打开文件（保存配置）
