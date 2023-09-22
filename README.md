@@ -12,7 +12,7 @@
 2. Light Chat
 
 ## 条件
-要求安装一下运行库:
+要求安装以下运行库:
 1. websocket
 2. websocket-client
 3. json
