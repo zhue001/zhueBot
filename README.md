@@ -21,8 +21,6 @@
 6. datetime
 7. re
 + 请按照顺序安装，否则可能会出现问题
-### 一键安装脚本
-执行 `setup.bat` (Windows) 或 `setup.sh` (Linux族) 即可一键安装 （需确保`pip`可以调用）
 
 ## 配置
 * 打开`main.py`，跳转到第178行，将debug变量的值替换为`True`(如果想要调试)或`False`(如果不想要调试)
