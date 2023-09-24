@@ -3053,7 +3053,7 @@ while True:
                                     )
                                     > 2
                                 ):
-                                    idiomsolitaire == "playing"
+                                    idiomsolitaire = "playing"
                                     currentWord = choice(
                                         idiom
                                     )
